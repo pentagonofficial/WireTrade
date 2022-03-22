@@ -19745,7 +19745,7 @@ icon-bx-wraper style-4:hover .icon-cell i,
 }
 .logo-header img {
   height: auto;
-  width: 120%;
+  width: 70%;
 }
 .logo-header span {
   font-size: 20px;
@@ -20914,7 +20914,7 @@ footer .footer-logo {
   margin-bottom: 25px;
 }
 footer .footer-logo img {
-  max-width: 40%;
+  max-width: 20%;
 }
 footer .widget-logo ul {
   display: flex;
